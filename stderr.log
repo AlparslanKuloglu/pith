@@ -1,0 +1,857 @@
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103
+  this.Schema.prototype.base = this;
+                             ^
+
+TypeError: Cannot set properties of undefined (setting 'base')
+    at new Mongoose (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:103:30)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/index.js:1280:45)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/index.js:8:18)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/httpdanw/pithgrowth.simurgify.com/index.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/httpdanw/pithgrowth.simurgify.com/index.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/10/lib/node_modules/mongodb-connection-string-url/node_modules/whatwg-url/lib/encoding.js:2
+const utf8Encoder = new TextEncoder();
+                    ^
+
+ReferenceError: TextEncoder is not defined
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/10/lib/node_modules/mongodb-connection-string-url/node_modules/whatwg-url/lib/encoding.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/10/lib/node_modules/mongodb-connection-string-url/node_modules/whatwg-url/lib/url-state-machine.js:5:34)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/10/lib/node_modules/mongodb-connection-string-url/node_modules/whatwg-url/lib/encoding.js:2
+const utf8Encoder = new TextEncoder();
+                    ^
+
+ReferenceError: TextEncoder is not defined
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/10/lib/node_modules/mongodb-connection-string-url/node_modules/whatwg-url/lib/encoding.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/10/lib/node_modules/mongodb-connection-string-url/node_modules/whatwg-url/lib/url-state-machine.js:5:34)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+node:internal/modules/cjs/loader:959
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/httpdanw/pithgrowth.simurgify.com/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/pithgrowth.simurgify.com/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/httpdanw/pithgrowth.simurgify.com/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:959
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/httpdanw/pithgrowth.simurgify.com/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/pithgrowth.simurgify.com/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/httpdanw/pithgrowth.simurgify.com/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:959
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/httpdanw/pithgrowth.simurgify.com/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/httpdanw/pithgrowth.simurgify.com/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Module.require (node:internal/modules/cjs/loader:1028:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/httpdanw/pithgrowth.simurgify.com/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/document.js:3097
+    this.$__.validationError = new ValidationError(this);
+                               ^
+
+ValidationError: message validation failed: user_id: User id is Required!
+    at model.Document.invalidate (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/document.js:3097:32)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/document.js:2885:17
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/schematype.js:1349:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+  errors: {
+    user_id: ValidatorError: User id is Required!
+        at validate (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/schematype.js:1346:13)
+        at ObjectId.SchemaType.doValidate (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/schematype.js:1330:7)
+        at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/mongoose/lib/document.js:2877:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'User id is Required!',
+        type: 'required',
+        path: 'user_id',
+        value: null
+      },
+      kind: 'required',
+      path: 'user_id',
+      value: null,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'message validation failed'
+}
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
+/home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58
+    if(password.length < 8)
+                ^
+
+TypeError: Cannot read properties of null (reading 'length')
+    at /home/httpdanw/pithgrowth.simurgify.com/routes/login_company.js:58:17
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/httpdanw/nodevenv/pithgrowth.simurgify.com/16/lib/node_modules/express/lib/router/index.js:47:12)
